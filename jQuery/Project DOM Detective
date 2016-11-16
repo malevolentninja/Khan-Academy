@@ -1,0 +1,16 @@
+Use jQuery selectors
+
+Every image.
+$("img");
+
+The text that says 'Home'.
+$('.home-link').text();
+
+$("h1").length; 
+
+
+Sometimes the $ might be being used by another library, then I should try jQuery();
+
+e.g. jQuery("h1").text();
+
+Often Multiple selectors for CSS. 
