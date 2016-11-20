@@ -28,14 +28,22 @@ INSERT INTO artists (name, country, genre)
     VALUES ("Gloria Estefan", "US", "Pop");
 INSERT INTO artists (name, country, genre)
     VALUES ("Bob Marley", "Jamaica", "Reggae");
-
+INSERT INTO artists (name, country, genre)
+    VALUES ("Hans Entertainment", "Germany", "Electronic");
+INSERT INTO artists (name, country, genre)
+    VALUES ("Mahalo", "Hawaii", "Electronic");
+INSERT INTO artists (name, country, genre)
+    VALUES ("Soundgarden", "US", "Rock");
+    
+    
+    
 CREATE TABLE songs (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     artist TEXT,
     title TEXT);
 
 INSERT INTO songs (artist, title)
-    VALUES ("Taylor Swift", "Shake it off");
+    VALUES ("Hans Entertainment", "Hoch die Hande - Wochenende");
 INSERT INTO songs (artist, title)
     VALUES ("Rihanna", "Stay");
 INSERT INTO songs (artist, title)
@@ -55,7 +63,12 @@ INSERT INTO songs (artist, title)
 INSERT INTO songs (artist, title)
     VALUES ("Queen", "Bohemian Rhapsody");
 INSERT INTO songs (artist, title)
-    VALUES ("Guns N' Roses", "Don't cry");
+    VALUES ("Mahalo", "Current Mood");
+INSERT INTO songs (artist, title)
+    VALUES ("Guns N' Roses", "Welcome to the Jungle");
+ INSERT INTO songs (artist, title)
+        VALUES ("Soundgarden", "Black Hole Sun");
+  
     
 
 SELECT title FROM songs
@@ -64,10 +77,10 @@ WHERE artist = "Queen";
 
 SELECT name FROM artists
 
-WHERE genre = "Pop";
+WHERE genre = "Electronic";
 
 SELECT title FROM songs 
 WHERE artist IN 
-(SELECT name FROM artists WHERE genre = "Pop");
+(SELECT name FROM artists WHERE genre = "Electronic");
     
 
