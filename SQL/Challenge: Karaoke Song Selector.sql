@@ -11,6 +11,8 @@ INSERT INTO songs (title, artist, mood, duration, released)
 INSERT INTO songs (title, artist, mood, duration, released)
     VALUES ("Let it go", "Idina Menzel", "epic", 227, 2013);
 INSERT INTO songs (title, artist, mood, duration, released)
+    VALUES ("Anthem of the Angels", "Breaking Benjamin", "sad",403,2009);
+INSERT INTO songs (title, artist, mood, duration, released)
     VALUES ("Master of Puppets", "Metallica", "epic", 516, 1986);
 INSERT INTO songs (title, artist, mood, duration, released)
     VALUES ("Yellow Submarine", "The Beatles", "happy", 152, 1963);
