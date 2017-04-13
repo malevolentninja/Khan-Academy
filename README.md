@@ -9,7 +9,7 @@ I am documenting my progress throughout these courses here. To date I have no co
 * Intro to HTML/CSS: Making Webpages
 46/72 complete
 
-* Intro to SQL: QUerying and managing data
+* Intro to SQL: Querying and managing data
 11/38 complete
 
 * HTML/JS: Making Webpages Interactive
