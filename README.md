@@ -4,10 +4,10 @@ Khan Academy [Computer Programming section](https://www.khanacademy.org/computin
 I am documenting my progress throughout these courses here. To date I have no complete courses.
 
  * Intro to JS: Drawing and Animation
-1/105
+22/105
 
 * Intro to HTML/CSS: Making Webpages
-46/72 complete
+46/71 complete
 
 * Intro to SQL: Querying and managing data
 11/38 complete
