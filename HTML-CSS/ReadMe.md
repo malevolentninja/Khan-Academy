@@ -41,7 +41,7 @@
 * [Challenge: Position Planet](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_position_planet.html)
 * [Challenge: Floating Clouds](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenges_FloatingClouds)
 
-### Project: Event Invite
+### [Project: Event Invite](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Project_EventInvite.html)
 
 ## More CSS Selectors 
 
