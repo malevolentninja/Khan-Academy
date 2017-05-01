@@ -6,8 +6,7 @@ I am documenting my progress throughout these courses here. To date I have no co
  * Intro to JS: Drawing and Animation
 22/105
 
-* [Intro to HTML/CSS: Making Webpages](https://github.com/malevolentninja/khanAcademy/tree/master/HTML-CSS)
-### COMPLETED
+* [Intro to HTML/CSS: Making Webpages](https://github.com/malevolentninja/khanAcademy/tree/master/HTML-CSS) COMPLETED
 
 * Intro to SQL: Querying and managing data
 11/38 complete
