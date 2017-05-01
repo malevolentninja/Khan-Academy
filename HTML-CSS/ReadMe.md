@@ -47,4 +47,4 @@
 
 * [Challenge: A Classy gallery](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_AClassyGallery.html)  
 * [Challenge: Descendants of Khan](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_DescendantsOfKhan.html)
-* [Challenge: Grouped Animals]( 
+* [Challenge: Grouped Animals](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_GroupedAnimals.html)
