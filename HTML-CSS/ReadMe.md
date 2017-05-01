@@ -42,6 +42,7 @@
 * [Challenge: Floating Clouds](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenges_FloatingClouds)
 
 ### [Project: Event Invite](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Project_EventInvite.html)
+*Brief: Create a simple Event Invite containing a time, place and date.*
 
 ## More CSS Selectors 
 
