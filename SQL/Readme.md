@@ -3,9 +3,9 @@ Find out the order [here](https://www.khanacademy.org/computing/computer-program
 
 ## Introduction to SQL: 
 
- * Book List Database 
- * Box Office Hits
- * TODO List Database Stats
+ * [Book List Database](https://github.com/malevolentninja/khanAcademy/blob/master/SQL/Challenge_BookList.sql) 
+ * [Box Office Hits](https://github.com/malevolentninja/khanAcademy/blob/master/SQL/Challenge_BoxOffice.sql)
+ * [TODO List Database Stats](https://github.com/malevolentninja/khanAcademy/blob/master/SQL/Challenge_TODOList.sql)
 
 ### Project: Design a Store Database
 
@@ -14,11 +14,11 @@ Find out the order [here](https://www.khanacademy.org/computing/computer-program
  
 ## More advanced SQL Queries: 
 
-* Use AND/OR Queries
-* Karaoke Song Selector
-* Playlist Maker
-* The Wordiest Author
-* Gradebook
+* [Use AND/OR Queries](https://github.com/malevolentninja/khanAcademy/blob/master/SQL/Challenge_UseANDORQueries.sql)
+* [Karaoke Song Selector](https://github.com/malevolentninja/khanAcademy/blob/master/SQL/Challenge_KaraokeSongSelector.sql)
+* [Playlist Maker](https://github.com/malevolentninja/khanAcademy/blob/master/SQL/Challenge_PlaylistMaker.sql)
+* [The Wordiest Author](
+* [Gradebook](
 
 
 ### Project: Data Dig
@@ -27,10 +27,10 @@ Find out the order [here](https://www.khanacademy.org/computing/computer-program
 
 ## Relational queries 
 
-* Bobby's Hobbies
-* Customer's orders
-* Sequels in SQL
-* FriendBook
+* [Bobby's Hobbies]
+* [Customer's orders]
+* [Sequels in SQL]
+* [FriendBook]
 
 ### Project: Famous People
  
@@ -45,6 +45,6 @@ Find out the order [here](https://www.khanacademy.org/computing/computer-program
 
 
 ## Extras: 
- * Grocery List 
+ * [Grocery List](https://github.com/malevolentninja/khanAcademy/blob/master/SQL/Challenge_GroceryList.sql) 
 
  
