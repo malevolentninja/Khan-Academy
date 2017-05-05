@@ -8,13 +8,13 @@ I am documenting my progress throughout these courses here. To date I have no co
 
 * [Intro to HTML/CSS: Making Webpages](https://github.com/malevolentninja/khanAcademy/tree/master/HTML-CSS) COMPLETED
 
-* Intro to SQL: Querying and managing data
+* [Intro to SQL: Querying and managing data](https://github.com/malevolentninja/khanAcademy/tree/master/SQL) 
 11/38 complete
 
 * HTML/JS: Making Webpages Interactive
 3/52
 
-* HTML/JS: Making Webpages interactive with jQuery
+* [HTML/JS: Making Webpages interactive with jQuery](https://github.com/malevolentninja/khanAcademy/tree/master/jQuery)
 19/49
 
 * Advanced JS: Games & Visualisations 
