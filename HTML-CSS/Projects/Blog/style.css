@@ -1,0 +1,38 @@
+#banner {
+  color: green;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+h2, h3 {
+  font-weight: bold;
+  font-size: 25px;
+  font-style: oblique;
+  color: green;
+  font-family: monospace;
+}
+#contents {
+  font-weight: italic;
+  font-family: monospace;
+  font-style: italic;
+}
+
+#ka #learn #git {
+  font-size: 15px;
+}
+
+.img {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+#first #second #third {
+  font-weight: normal;
+}
+
+footer {
+  
+}
