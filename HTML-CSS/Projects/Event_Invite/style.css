@@ -1,0 +1,33 @@
+body {
+  background-color: #dfa855;
+  font-family: sans-serif;
+  margin: auto;
+  text-align: center;
+}
+
+.hr {
+  background: white;
+  border: 2px;
+  padding: 3px;
+}
+
+#heading, h2 {
+  font-family: 'Bungee Inline', cursive;
+}
+
+h2 {
+  color: #009900;
+}
+
+table {
+  font-family: 'Bungee Inline', cursive;
+  width: 20%;
+  text-align: center;
+  margin: auto;
+  background-color: #FFFFFF;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: white;
+  color: #009900;
+  float: fixed;
+}
