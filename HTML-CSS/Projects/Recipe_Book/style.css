@@ -1,0 +1,54 @@
+body {
+            background:  #80bfff;
+        }
+
+        table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+#prep {
+    text-align: center;
+}
+.banner {
+    background: #99ff99;
+    color: #990000;
+    font-family: monospace;
+    font-size: 40px;
+    text-align: center;
+}
+nav {
+     text-align: center;
+  background: white;
+  margin: 20px 0;
+  font-size: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+}
+
+ol{
+     display: flex;
+  justify-content: center;
+  
+}
+
+#risotto {
+  
+}
+
+.time {
+    background:#6699ff ;
+    color:#b3ffff ;
+}
+footer {
+    font-style: bold;
+}
