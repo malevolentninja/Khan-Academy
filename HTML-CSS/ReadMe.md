@@ -14,7 +14,7 @@
 *  [Challenge: Seasonal ids](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_Seasonalids.html)
 *  [Challenge: Apples and Bananas Classes](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_ApplesAndBananas.html)
 
-### [Project: Travel Webpage](### [Project: Recipe book](https://github.com/malevolentninja/khanAcademy/tree/master/HTML-CSS/Projects/Travel_Webpage)
+### [Project: Travel Webpage](https://github.com/malevolentninja/khanAcademy/tree/master/HTML-CSS/Projects/Travel_Webpage)
 *Brief: Create a simple travel webpage*
 
 ## More Html Tags
