@@ -14,7 +14,7 @@
 *  [Challenge: Seasonal ids](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_Seasonalids.html)
 *  [Challenge: Apples and Bananas Classes](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_ApplesAndBananas.html)
 
-### [Project: Travel Webpage](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Project_TravelPage.html) 
+### [Project: Travel Webpage](### [Project: Recipe book](https://github.com/malevolentninja/khanAcademy/tree/master/HTML-CSS/Projects/Travel_Webpage)
 *Brief: Create a simple travel webpage*
 
 ## More Html Tags
@@ -23,7 +23,7 @@
 * [Challenge: Jump Around](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_JumpAround.html) 
 * [Challnege: The Dinner Table](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_TheDinnerTable.html) 
 
-### [Project: Recipe book](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Project_RecipeBook.html)
+### [Project: Recipe book](https://github.com/malevolentninja/khanAcademy/tree/master/HTML-CSS/Projects/Recipe_Book)
 *Brief: Create a simple Recipe book containing 3 recipes*
 
 ## CSS Text Properties
@@ -31,7 +31,7 @@
 * [Challenge: Great Big Font Sizes](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_GreatBigFontSizes.html)
 * [Challenge: Famous Font Formats](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_FamousFontFormats.html)
 
-### [Project: Blog](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Project_Blog.html)
+### [Project: Blog](https://github.com/malevolentninja/khanAcademy/tree/master/HTML-CSS/Projects/Blog)
 *Brief: Create a simple Blog with 3 posts*
 
 ## CSS layouts
@@ -41,7 +41,7 @@
 * [Challenge: Position Planet](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenge_position_planet.html)
 * [Challenge: Floating Clouds](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Challenges_FloatingClouds)
 
-### [Project: Event Invite](https://github.com/malevolentninja/khanAcademy/blob/master/HTML-CSS/Project_EventInvite.html)
+### [Project: Event Invite](https://github.com/malevolentninja/khanAcademy/tree/master/HTML-CSS/Projects/Event_Invite)
 *Brief: Create a simple Event Invite containing a time, place and date.*
 
 ## More CSS Selectors 
